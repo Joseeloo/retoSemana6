@@ -30,7 +30,7 @@ catalogoProductos/
   
   └── README.md
 
-## 🚀 Cómo usar
+## Cómo usar
 
 1. Abre el archivo `index.html` en un navegador.
 2. El script `catalogoProductos.js` se ejecuta automáticamente.
